@@ -1,4 +1,4 @@
-# Iris Flower Classification 🌸
+# Iris Flower Classification 
 
 This project is part of my AI & ML Internship tasks.
 
