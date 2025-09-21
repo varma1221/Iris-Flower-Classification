@@ -62,6 +62,15 @@ source venv/bin/activate   # On Windows use: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## Acknowledgements
+
+**Task Provider:** CODEXINTERN
+
+**Dataset: Iris dataset** - UCI Repository
+
+**Libraries:** scikit-learn, pandas, seaborn, matplotlib
 
 
 
