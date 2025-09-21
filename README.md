@@ -6,7 +6,7 @@ The goal is to predict the species of an Iris flower — *Setosa*, *Versicolor*,
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Performed detailed EDA including:
 
