@@ -45,11 +45,11 @@ Each model was evaluated using:
 - **Confusion Matrix (heatmap with Seaborn)**  
 - **Classification Report (Precision, Recall, F1-score)**
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 ### Clone the repository and set up the environment:
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone the repository and set up the environment
 ```bash
